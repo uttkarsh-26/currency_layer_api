@@ -1,0 +1,7 @@
+name: "Currency Layer Api"
+description: Provides currency api layer custom resource.
+core_version_requirement: ^8 || ^9
+type: module
+dependencies:
+  - drupal:rest
+  - drupal:serialization
